@@ -1,1 +1,5 @@
-# Smart-Home-Lock-using-ESP32-CAM-
+# Smart-Home-Lock-using-ESP32-CAM
+
+Security is at most concern for anyone nowadays, whether it's data security or security of their own home. With the advancement of technology and the increasing use of IoT, digital door locks have become very common these days. Digital lock doesn’t require any physical key but it uses RFID, fingerprint, Face ID, pin, passwords, etc. to control the door lock. In past, we have developed many digital door locks applications using these various technologies. In this tutorial we build a Face ID controlled Digital Door lock system using ESP32-CAM.
+
+The AI-Thinker ESP32-CAM module is a low-cost development board with a very small size OV2640 camera and a micro SD card slot. It has an ESP32 S chip with built-in Wi-Fi and Bluetooth connectivity, with 2 high-performance 32-bit LX6 CPUs, 7-stage pipeline architecture. We have previously explained ESP32-CAM in detail and used it to build a Wi-Fi door Video doorbell. This time we will use the ESP32-CAM to build a Face Recognition based Door Lock System using a Relay module and Solenoid Lock.
